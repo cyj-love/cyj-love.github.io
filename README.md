@@ -6,7 +6,7 @@
 
 ## 我的一些联系方式
 
-- Address: ** the Affiliated High School of Fujian Normal University in PingTan **
+- Address: **the Affiliated High School of Fujian Normal University in PingTan**
 - Phone: **+86 18750794900**
 - Site: **<https://cyj-love.github.io>**
 
